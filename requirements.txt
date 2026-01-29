@@ -1,4 +1,4 @@
-pyrofork==2.3.59
+pyrofork==2.3.69
 TgCrypto 
 pyromod
 python-dotenv
@@ -8,3 +8,4 @@ motor
 aiohttp
 asyncio
 aiofiles
+shortzy
